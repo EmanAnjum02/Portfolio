@@ -296,14 +296,14 @@ footer p:nth-child(2){
     width: 70px;
     align-items: center;
     justify-content: center;
-    background:#f9004d  ;
+    /* background:#f9004d  ; */
     /* #f9004d */
     border-radius: 50%;
     text-decoration: none;
     font-size:x-large; 
 }
 .social ul li i{
-    color: rgb(255, 255, 255);
+    color: #f9004d;
     position:absolute;
     top:33.5px;
     left:11px;
