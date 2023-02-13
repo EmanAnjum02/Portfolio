@@ -46,7 +46,7 @@ nav ul li {
 nav ul li a {
     color: rgb(255, 255, 255);
     background-color:rgb(114, 10, 10) ;
-/*     border-radius:15px; */
+    border-radius:3px;
     
     padding: 1vh;
     text-decoration: none;
@@ -180,6 +180,7 @@ button:hover {
     text-align: center;
 }
 
+
 .box {
     display: flex;
     justify-content: center;
@@ -205,7 +206,19 @@ h5 {
     font-size: 20px;
     margin-bottom: 15px;
 }
-
+.donut{
+    
+    width: 150px;
+}
+.tick-tack-toe{
+    padding: 10px;
+    padding-bottom: 15px;
+    width: 150px;
+}
+.scrap{
+    padding: 20px;
+    width: 200px;
+}
 .pra p {
     color: rgb(133, 196, 180);
     font-size: 16px;
